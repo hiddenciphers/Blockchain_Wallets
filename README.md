@@ -51,7 +51,7 @@ The TO ADDRESS matches the fintech professionals wallet address displayed on the
 
 ![ganache_account](img/ganache_account.png)
 
-The Address matches the employer address displayed at the top of the sidebar in the streamlit UI.
+The ADDRESS matches the employer address displayed at the top of the sidebar in the streamlit UI.
 
 The Balance is 99.20 and the TX count is 2.
 
